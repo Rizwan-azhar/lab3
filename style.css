@@ -1,0 +1,30 @@
+.bg{
+    background-color:  #dde1e7;
+}
+.bg1{
+    background-color: #1bb1ec;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+  }
+
+  .centerss {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+  }
+  .centers {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+ .left {
+    position: absolute;
+    left: 1100px;
+  }
